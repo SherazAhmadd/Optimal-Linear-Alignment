@@ -70,7 +70,7 @@ The executable requires two sequence files as input arguments. The algorithm wil
 Upon completion, the program generates an alignment file named:
 
 ```
-[file1]_vs_[file2]_alignment.fna
+alignment_result.txt
 ```
 This file contains the optimally aligned sequences in a multi-line FASTA format. Summary statistics are also output to the standard console for immediate review.
 
@@ -92,7 +92,7 @@ The implementation utilizes a discrete global scoring system, which can be modif
 ## Contact & Issues
 Email: ranasheraz.202101902@gcuf.edu.pk 
 
-Issues: https://github.com/SherazAhmadd/PBWT-a-fast-Haplotypes-Matching-Algorithm/issues
+Issues: [https://github.com/SherazAhmadd/Optimal-Linear-Alignment/issues](https://github.com/SherazAhmadd/Optimal-Linear-Alignment/issues)
 
 ## Acknowledgment
 Eugene W. Myers, Webb Miller
